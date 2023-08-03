@@ -1,6 +1,6 @@
 # Atividade prática 
 
-Este desafio tem o intuito de avaliar suas habilidades em testes automatizados e manuais. 
+Este desafio tem o intuito de avaliar suas habilidades em testes automatizados. 
 
 ## Descrição Geral 
 
@@ -35,6 +35,8 @@ Você deve abrir uma Pull Request para [este repositório](https://github.com/ph
 1. Primeiro, faça um fork deste projeto para sua conta no Github.
  
 2. Em seguida, implemente sua solução seguindo as instruções que estão acima.
+
+3. Faça o Pull Request, para a branch que lhe foi designada, com o resultado da atividade.
  
 
 ## Pontos de Atenção 
@@ -43,4 +45,4 @@ Você deve abrir uma Pull Request para [este repositório](https://github.com/ph
 
 2. Não fique em cenários comuns de teste, valide erros, fluxo de exceção e relações entre as coleções.
 
-3. Foque em construir um projeto simples mais bem elaborado, utilize algum padrão de projeto, gere relatórios, reutilize código etc.
+3. Foque em construir um projeto simples mas bem elaborado, utilize algum padrão de projeto, gere relatórios, reutilize código etc.
