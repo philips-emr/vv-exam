@@ -22,7 +22,7 @@ Com algumas requisições podemos adicionar, editar, pesquisar ou remover regist
 
 Você deve abrir uma Pull Request para [este repositório](https://github.com/philips-emr/vv-exam), contendo os itens a seguir: 
 
-- Arquivo no fromato Json exportado do Postman contendo as requisições.
+- Arquivo no formato Json exportado do Postman contendo as requisições.
 
 - Projeto de Testes Automatizados contendo uma suíte de testes de API.
 
@@ -36,7 +36,7 @@ Você deve abrir uma Pull Request para [este repositório](https://github.com/ph
  
 2. Em seguida, implemente sua solução seguindo as instruções que estão acima.
 
-3. Faça o Pull Request, para a branch que lhe foi designada, com o resultado da atividade.
+3. Envie o link do seu Pull Request, com a atividade, para clair.hanoff@philips.com.
  
 
 ## Pontos de Atenção 
