@@ -12,6 +12,15 @@ Este serviço é composto de cinco collections: Atividades, Autores, Livros, Fot
 
 Com algumas requisições podemos adicionar, editar, pesquisar ou remover registros. 
 
+## Instruções de entrega 
+
+1. Primeiro, faça um fork deste projeto para sua conta no Github.
+ 
+2. Em seguida, implemente sua solução seguindo as instruções que estão abaixo.
+
+3. Envie o link do seu Pull Request, com a atividade, para clair.hanoff@philips.com.
+ 
+
 ## O que sua prova deve conter: 
 
 1. Escolha uma dentre as collections da API de Livros. 
@@ -20,23 +29,13 @@ Com algumas requisições podemos adicionar, editar, pesquisar ou remover regist
 
 3. Elabore um projeto de Testes Automatizados de API com o **Framework e Linguagem de sua preferência** 
 
-Você deve abrir uma Pull Request para [este repositório](https://github.com/philips-emr/vv-exam), contendo os itens a seguir: 
+Você deve abrir uma Pull Request para um reposítorio publico, criado por você, contendo os itens a seguir: 
 
 - Arquivo no formato Json exportado do Postman contendo as requisições.
 
 - Projeto de Testes Automatizados contendo uma suíte de testes de API.
 
 - Instruções de como executar o projeto.
-
- 
-
-## Instruções de entrega 
-
-1. Primeiro, faça um fork deste projeto para sua conta no Github.
- 
-2. Em seguida, implemente sua solução seguindo as instruções que estão acima.
-
-3. Envie o link do seu Pull Request, com a atividade, para clair.hanoff@philips.com.
  
 
 ## Pontos de Atenção 
